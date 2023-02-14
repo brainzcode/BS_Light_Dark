@@ -1,6 +1,6 @@
 # Light and Dark Mode Theme
 
-## Made with Bootsrap by [Ravi Lamkoti](https://ravilamkoti.cf)
+## Made with Bootstrap by [Ravi Lamkoti](https://ravilamkoti.cf)
 
 - I found this work on code pen and I was impressed by the work done by [Ravi Lamkoti](https://ravilamkoti.cf).
 - I had to make a copy of this work so that I can use it in future projects.
